@@ -15,7 +15,6 @@ Optimize the SEO of a photographer's website
     npm install
 ```
 ### Start the project
-```bash
-    index.html
-```
+open **index.html** with Live Server
+
 
